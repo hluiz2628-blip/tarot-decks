@@ -19,6 +19,3 @@ O ZIP desta DLC contém 78 cartas JPG e o arquivo `LICENSE_CLOWN_TAROT.txt` com 
 
 No Arcana II 6.2.42 ou posterior, acesse **Explorar Cartas → Clown Town Tarot → Baixar**. A internet é necessária somente durante o download; depois as imagens funcionam offline.
 
-## Publicação
-
-Acesse `GUIA_PUBLICACAO.md` para instruções de como publicar o ZIP como *asset* de uma Release. O arquivo `Clown_Tarot_DLC.zip` deve ficar na Release, e não na raiz do repositório.
